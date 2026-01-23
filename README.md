@@ -1,17 +1,12 @@
 # Minimal Image Viewer
 
-<div style="overflow: auto;">
-  <img src="https://github.com/deminimis/minimalimageviewer/blob/main/assets/app.png?raw=true" alt="Project Logo" width="20%" align="left">
-</div> 
-
 ### The most 🪶 LIGHTWEIGHT image viewer available for Windows
 <br>
 
 Minimal Image Viewer is an open-source, C++-based image viewing application engineered for Windows, prioritizing performance and minimalism. With a compiled size of only ~82KB. Leveraging native Windows APIs and the Windows Imaging Component (WIC), it ensures accurate functionality. 
 <br><br><br><br>
 
-### 💾 Download the latest version [here](https://github.com/deminimis/minimalimageviewer/releases).
-<br>
+
 
 ## Key Features
 
